@@ -1,3 +1,3 @@
 # profcode
-# Não mexerno arquivo .github
+# Não mexer no arquivo .github
 Projeto do professor Ajax
